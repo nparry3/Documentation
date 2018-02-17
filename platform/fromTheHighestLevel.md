@@ -1,6 +1,3 @@
-Table of Contents
-=================
-
    * [The What](#the-what)
    * [The Why](#the-why)
    * [Break It Down: The 3C's](#break-it-down-the-3cs)

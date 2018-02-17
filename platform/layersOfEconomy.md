@@ -110,7 +110,7 @@ To drive this point home, bazaars may choose to build themselves on top of DCOâ€
 
 This section of the diagram represents the indivisuals and organizations that leverage the network. In essence, as each entity controls and owns its data, it is also free to monetize it should it so choose.
 
-![Meta](/images/overeignCommerce.png)
+![Meta](/images/sovereignCommerce.png)
 
 ### Users
 

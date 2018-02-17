@@ -12,9 +12,6 @@ RelateID’s blockchain technology and permissioning system underpin the securit
 Table of Contents
 =================
 
-   * [RelateID // Universal Personal Data Blockchain](#relateid--universal-personal-data-blockchain)
-   * [Overview](#overview)
-         * [Table of Contents](#table-of-contents)
    * [1. Introduction](#1-introduction)
       * [1.1. Overview](#11-overview)
       * [1.2. Why](#12-why)

@@ -4,3 +4,4 @@ This section is focused on defining the deeper cuts of the system as a whole. It
 
 [From the Highest Level](fromTheHighestLevel.md)<br>
 [Commerce Platform](commercePlatform.md)
+[Layers Of Economy](layersOfEconomy.md)

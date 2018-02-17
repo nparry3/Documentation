@@ -36,6 +36,6 @@ Finally, the bazaars interactions with its consumers will act in the same fashio
 
 ![Multi Gateway](/images/consumergateway.png)
 
-## Summing Up
+# Summing Up
 
 In conclusion, the systems can be abstracted to 3 distinct components. These components aid in understanding the relationships between bazaars and the underlying services they sell. Additionally, through dynamic injectable gateways, service requirements, contracts, and payments can be orchestrated in an automated way. This allows for entrepreneurs to distribute their products and consumers to buy them in an independent and autonomous way.

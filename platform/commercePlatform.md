@@ -7,4 +7,4 @@ This document is vague on blockchain complexities and the mechanics of decentral
 
 # RelateID Commerce Platform (RCP)
 
-![Meta](images/gateway.png)
+![Meta](/images/gateway.png)

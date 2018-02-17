@@ -8,4 +8,9 @@
 
 # RelateID Roadmap
 
-* [English](Roadmap-2018-Jan.md)
+* [Milestones](Roadmap.md)
+* [2018 Monthly](Roadmap-2018-Jan.md)
+
+# Architecture
+
+* [Platform Architecture](platform/README.md)

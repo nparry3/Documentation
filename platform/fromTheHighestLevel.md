@@ -1,4 +1,6 @@
-   * [The What](#the-what)
+# From The Highest Level
+
+  * [The What](#the-what)
    * [The Why](#the-why)
    * [Break It Down: The 3C's](#break-it-down-the-3cs)
       * [Blockchain &amp; Currency](#blockchain--currency)

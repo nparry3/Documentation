@@ -1,5 +1,9 @@
 # Commerce Platform
 
+   * [Disclaimer](#disclaimer)
+   * [RelateID Commerce Platform (RCP)](#relateid-commerce-platform-rcp)
+   * [Summing Up](#summing-up)
+
 # Disclaimer
 This document is vague on blockchain complexities and the mechanics of decentralized trustless computing. Much has already been written in this area and it is assumed that the reader is familiar with blockchain techniques and implementations. As a result, this paper will primarily focus on the components outside of the core blockchain technology.
 

@@ -104,6 +104,6 @@ Individuals on the system. These individuals manage who and what can access thei
 
 Organizations work much the same as users in that they own their data and the access to it. As a result, should they so choose, organizations can share and monetize any data assets they like.
 
-## Summing Up
+# Summing Up
 
 By providing a clear delineation of economic participants, individuals are guided into the network in a soft-handed way. In essence, the system has been designed to allow individuals to interact with the platform in a friendly and familiar way from the lowest level of technologists to the highest level of enterprise.

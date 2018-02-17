@@ -1,3 +1,17 @@
+   * [Layers of Economy](#layers-of-economy)
+      * [Technologists](#technologists)
+         * [Miners](#miners)
+         * [Datacenter Operators (DcO's)](#datacenter-operators-dcos)
+         * [Developers](#developers)
+      * [Business](#business)
+         * [Skilled Worker](#skilled-worker)
+         * [Product](#product)
+         * [Bazaar](#bazaar)
+      * [Sovereign Entities](#sovereign-entities)
+         * [Users](#users)
+         * [Organizations](#organizations)
+   * [Summing Up](#summing-up)
+
 # Layers of Economy
 
 The RCP aims to create an ecosystem for entrepreneurs. With enhancements in infrustructure, ai, blockchain, and robotic, jobs are destined to be lost. Autonomous vehicles will replace truck drivers and taxi cabs. Other areas of AI are already disrupting services in FinTec as well disrupting well established ‘white collar’ jobs such as law.

@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/relateid/badges.svg?label=ready)](https://waffle.io/relateid/badges)
+[![Stories in Ready](https://badge.waffle.io/relateid/Documentation.svg?label=ready)](https://waffle.io/relateid/Documentation)
 
 # RelateID Technical Whitepaper
 

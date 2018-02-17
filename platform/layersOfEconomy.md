@@ -1,3 +1,5 @@
+# Layers of Economy
+
    * [Layers of Economy](#layers-of-economy)
       * [Technologists](#technologists)
          * [Miners](#miners)

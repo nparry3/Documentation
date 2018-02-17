@@ -5,3 +5,7 @@
 # RelateID Technical Whitepaper
 
 * [English](RelateIDTechnicalWhitepaper.md)
+
+# RelateID Roadmap
+
+* [English](Roadmap-2018-Jan.md)

@@ -1,13 +1,10 @@
 # RelateID Software Roadmap 
 (last revised Jan 2018)
-## Q1, 2018
-- Fill In
+## Q3, 2018
+- Roadmap defined
+- Legal Hackers Hackathon Pre-Publicity
+- Start opening up to the world to help define
 
-## Q2, 2018
-- Fill In
-
-## Q3-4, 2018 
-- Fill In
 
 ### Notes
 We use the following terms and meanings

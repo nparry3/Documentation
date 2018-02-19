@@ -60,8 +60,11 @@ The three main components of RAP are:
 | Component      | Function        | Tool             |
 | -------------- |:---------------:| :---------------:|
 | Blockchain     | Currency        | BigChainDB       |
+| Blockchain     | Data Assets     | BigChainDB       |
 | State-Channels | Community       | Lightning/Raiden |
+| State-Channels | Communications  | Lightning/Raiden |
 | Datacenters    | Commerce        | Kubernetes       |
+| -------------- |:---------------:| :---------------:|
 
 ## Blockchain & Currency
 

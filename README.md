@@ -14,4 +14,8 @@
 
 # Architecture
 
-* [Platform Architecture](platform/README.md)
+* [Platform](platform/README.md)
+* [Trust](trust/README.md)
+* [Mining](mining/README.md)
+
+Explain how miners are added to the network.
